@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh</h1>
-<h3 align="center">A passionate frontend web developer from India
+<h3 align="center">A passionate frontend web developer from India,
 Looking for SoftWare Engineering full time Roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogaramjagadish&label=Profile%20views&color=0e75b6&style=flat" alt="bogaramjagadish" /> </p>
